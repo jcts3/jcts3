@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Working at Solve, using Serverless, Javascript and learning Ruby on Rails! 
+Working at Quit Genius, using Serverless and Typescript! 
 
 <!--
 **jcts3/jcts3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
